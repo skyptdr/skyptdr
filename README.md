@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @skyptdr
-- 👀 I’m interested in ocmpetetive programming
-- 🌱 I’m currently learning dsa in c++
+- 👋 Hi, I’m @sky
+- 👀 I’m interested in competetive programming
+- 🌱 I’m currently learning dsa 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
